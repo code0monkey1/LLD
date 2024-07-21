@@ -43,6 +43,7 @@ This project implements a flexible N x N Tic Tac Toe game where two players comp
    - Orchestrates the game flow.
    - Interacts with the Player and Board classes to manage turns and check for game completion.
 
-4. **Algorithm Design**:
+#### Algorithm Design
+
    - The time complexity for determining whether a player has won, tied, or has more moves left is constant time,
      𝑂(1)
